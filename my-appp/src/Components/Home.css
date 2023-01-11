@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    }
+.button{
+    margin: 20px;
+    background-color: aliceblue;
+}
+
